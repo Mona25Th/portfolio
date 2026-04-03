@@ -28,7 +28,7 @@ Gameplay Programmer
 ## - Programming Projects: 
 ### minigame (Unity, C#)
 
-🔗 Repository: [https://github.com/Mona25Th/Minigame-project.git]
+ Repository: [https://github.com/Mona25Th/Minigame-project.git]
 
 ---
 

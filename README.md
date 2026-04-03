@@ -6,7 +6,7 @@ I’m a third-year videogame design & development student, currently looking for
 
 ---
 
-## 🎮 Team Videogame Project (Unity, C#)
+##  Team Videogame Project (Unity, C#)
 **Duration:** 6 months  
 **Team size:** 6 people  
 **Engine:** Unity  
@@ -20,19 +20,19 @@ Gameplay Programmer
 - Implemented UI logic and gameplay feedback
 - Bug fixing and code refactoring
 
-🔗 **Gameplay video (minigame):**    [https://youtu.be/qwvMMAm7w-Q]
-🔒 **Source code:** Private team repository
+ **Gameplay video (minigame):**    [https://youtu.be/qwvMMAm7w-Q]
+ **Source code:** Private team repository
 
 ---
 
-## 🧩 Programming Projects
+## - Programming Projects: 
 ### minigame (Unity, C#)
 
 🔗 Repository: [https://github.com/Mona25Th/Minigame-project.git]
 
 ---
 
-## 🛠 Skills
+## Skills
 - **Languages:** C#, C++, Python
 - **Game Dev:** Unity, gameplay programming, AI basics
 - **Tools:** Git, GitHub, Visual Studio
@@ -40,12 +40,12 @@ Gameplay Programmer
 
 ---
 
-## 🎓 Education
+##  Education
 Videogame Design & Development (3rd year)  
 Currently completing the degree part-time.
 
 ---
 
-## 📫 Contact
+##  Contact
 - GitHub: [https://github.com/Mona25Th]
 - Email: [monatharwat41@yahoo.com]
